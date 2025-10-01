@@ -44,7 +44,7 @@ The objective is to perform **data exploration and analysis** with SQL queries t
 ---
 
 ## 📂 Files in Repository  
-- **Assignment_1.sql** → Contains all SQL queries with answers  
+- **Data_Insights&Reporting.sql** → Contains all SQL queries with answers  
 - **Technical_Assessment_File_2.sql** → Contains SQL query templates (questions only)  
 - **Titanic.csv** → Dataset file  
 
